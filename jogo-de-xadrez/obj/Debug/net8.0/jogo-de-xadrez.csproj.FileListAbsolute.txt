@@ -1,0 +1,14 @@
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\bin\Debug\net8.0\jogo-de-xadrez.exe
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\bin\Debug\net8.0\jogo-de-xadrez.deps.json
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\bin\Debug\net8.0\jogo-de-xadrez.runtimeconfig.json
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\bin\Debug\net8.0\jogo-de-xadrez.dll
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\bin\Debug\net8.0\jogo-de-xadrez.pdb
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.AssemblyInfoInputs.cache
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.AssemblyInfo.cs
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.csproj.CoreCompileInputs.cache
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.dll
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\refint\jogo-de-xadrez.dll
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.pdb
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\jogo-de-xadrez.genruntimeconfig.cache
+C:\Users\danei\source\repos\jogo-de-xadrez\jogo-de-xadrez\obj\Debug\net8.0\ref\jogo-de-xadrez.dll
